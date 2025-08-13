@@ -44,6 +44,7 @@
     <Compile Include="HttpCode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SoapCode.cs" />
+    <Compile Include="TcpSocketClient.cs" />
     <Compile Include="XmlCode.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
