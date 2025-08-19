@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ToolLibrary;
 
 namespace Test
 {
@@ -15,6 +16,12 @@ namespace Test
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private async void button1_Click(object sender, EventArgs e)
+        {
+            string result = await HttpCode.HttpPostAsync("http://192.168.2.134:500", "");
+            int a = 0;
         }
     }
 }

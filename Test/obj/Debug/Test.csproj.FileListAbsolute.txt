@@ -8,3 +8,6 @@ D:\学习\ToolLibrary\Test\obj\Debug\Test.csproj.GenerateResource.cache
 D:\学习\ToolLibrary\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 D:\学习\ToolLibrary\Test\obj\Debug\Test.exe
 D:\学习\ToolLibrary\Test\obj\Debug\Test.pdb
+D:\学习\ToolLibrary\Test\bin\Debug\ToolLibrary.dll
+D:\学习\ToolLibrary\Test\bin\Debug\ToolLibrary.pdb
+D:\学习\ToolLibrary\Test\obj\Debug\Test.csproj.CopyComplete
