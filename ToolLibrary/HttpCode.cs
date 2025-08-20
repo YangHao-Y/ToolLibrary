@@ -19,6 +19,8 @@ namespace ToolLibrary
         /// <returns></returns>
         public static string HttpPost(string URL, string Para)
         {
+            // 在发起请求前添加，强制使用TLS 1.2
+            ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
             HttpWebRequest httpRequest = (HttpWebRequest)WebRequest.Create(URL);
             httpRequest.Method = "POST";
             httpRequest.ContentType = "application/json";
@@ -54,6 +56,8 @@ namespace ToolLibrary
         /// <returns></returns>
         public static string HttpGet(string url, Dictionary<string, string> dic)
         {
+            // 在发起请求前添加，强制使用TLS 1.2
+            ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
             string result = "";
             StringBuilder builder = new StringBuilder();
             builder.Append(url);
@@ -97,6 +101,8 @@ namespace ToolLibrary
         /// <returns>接口响应内容</returns>
         public static async Task<string> HttpPostAsync(string URL, string Para)
         {
+            // 在发起请求前添加，强制使用TLS 1.2
+            ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
             // 创建HTTP请求对象
             HttpWebRequest httpRequest = (HttpWebRequest)WebRequest.Create(URL);
             httpRequest.Method = "POST";
@@ -148,6 +154,8 @@ namespace ToolLibrary
         /// <returns>接口响应内容</returns>
         public static async Task<string> HttpGetAsync(string url, Dictionary<string, string> dic)
         {
+            // 在发起请求前添加，强制使用TLS 1.2
+            ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
             // 构建包含查询参数的完整URL
             StringBuilder builder = new StringBuilder(url);
             if (dic.Count > 0)
