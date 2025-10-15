@@ -4,3 +4,9 @@ D:\学习\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.csprojAssemblyReference.
 D:\学习\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.csproj.CoreCompileInputs.cache
 D:\学习\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.dll
 D:\学习\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.pdb
+E:\MyProject\ToolLibrary\ToolLibrary\bin\Debug\ToolLibrary.dll
+E:\MyProject\ToolLibrary\ToolLibrary\bin\Debug\ToolLibrary.pdb
+E:\MyProject\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.csprojAssemblyReference.cache
+E:\MyProject\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.csproj.CoreCompileInputs.cache
+E:\MyProject\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.dll
+E:\MyProject\ToolLibrary\ToolLibrary\obj\Debug\ToolLibrary.pdb

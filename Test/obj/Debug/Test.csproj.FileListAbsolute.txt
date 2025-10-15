@@ -11,3 +11,16 @@ D:\学习\ToolLibrary\Test\obj\Debug\Test.pdb
 D:\学习\ToolLibrary\Test\bin\Debug\ToolLibrary.dll
 D:\学习\ToolLibrary\Test\bin\Debug\ToolLibrary.pdb
 D:\学习\ToolLibrary\Test\obj\Debug\Test.csproj.CopyComplete
+E:\MyProject\ToolLibrary\Test\bin\Debug\Test.exe.config
+E:\MyProject\ToolLibrary\Test\bin\Debug\Test.exe
+E:\MyProject\ToolLibrary\Test\bin\Debug\Test.pdb
+E:\MyProject\ToolLibrary\Test\bin\Debug\ToolLibrary.dll
+E:\MyProject\ToolLibrary\Test\bin\Debug\ToolLibrary.pdb
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.Form1.resources
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.Properties.Resources.resources
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.csproj.CopyComplete
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.exe
+E:\MyProject\ToolLibrary\Test\obj\Debug\Test.pdb
