@@ -16,6 +16,8 @@ namespace Test
         public Form1()
         {
             InitializeComponent();
+
+            AutoMoveControls autoMoveControls = new AutoMoveControls(this);
         }
 
         private async void button1_Click(object sender, EventArgs e)
